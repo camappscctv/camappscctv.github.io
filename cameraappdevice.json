@@ -3,7 +3,7 @@
     "responseCode": 200,
     "message": "",
     "data": {
-        "app_live": "true",
+        "app_live": "false",
         "app_id": "31",
         "bundle_name": "com.camera.device",
         "app_name": "camera",
@@ -13,7 +13,7 @@
         "id": "1",
         "bundle": "com.camera.device",
         "ads_on_off": "true",
-        "aa_ads_click": "3",
+        "aa_ads_click": "9",
         "aa_ads_default_native": "false",
         "aa_ads_native_on_off": "true",
         "aa_ads_banner_on_off": "true",
