@@ -42,7 +42,7 @@
         "wortise_banner": "test-banner",
         "wortise_native": "test-native",
         "wortise_interstitial": "test-interstitial",
-        "openAdsSplashShow": "true",
+        "openAdsSplashShow": "false",
         "countryNative": "true",
         "countryBanner": "true",
         "genderNative": "true",
