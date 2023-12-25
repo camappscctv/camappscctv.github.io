@@ -17,7 +17,7 @@
         "aa_ads_default_native": "false",
         "aa_ads_native_on_off": "true",
         "aa_ads_banner_on_off": "true",
-        "is_openAds_show": "true",
+        "is_openAds_show": "false",
         "aa_is_twist": "false",
         "aa_is_back_count": "true",
         "aa_ads_nativecolor": "",
