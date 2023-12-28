@@ -1,1 +1,3 @@
-
+facebook.com, 107471574632442, DIRECT, c3e20eee3f780d68
+datawrkz.com, mwpmcm16, DIRECT
+google.com, pub-8856559311549217, RESELLER, f08c47fec0942fa0
