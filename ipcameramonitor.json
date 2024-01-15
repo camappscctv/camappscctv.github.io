@@ -1,7 +1,7 @@
 {
   "data": {
-    "app_live": "false",
-    "ads_status": "false",
+    "app_live": "true",
+    "ads_status": "true",
     "ads_second": 21,
     "aa_ads_click": "3",
     "aa_ads_default_native": "false",
