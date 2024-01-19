@@ -7,7 +7,7 @@
         "adsOnOff":true,
         "isTestMode":true,
         "isConsentMsgShow":true,
-        "adsTypeOpenServer":"google",
+        "adsTypeOpenServer":"none",
         "adsTypeBannerServer":"google",
         "adsTypeNativeServer":"google",
         "adsTypeInterstitialServer":"google",
