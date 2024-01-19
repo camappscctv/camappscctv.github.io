@@ -47,6 +47,7 @@
         "genderBanner":true,
         "ageNative":true,
         "deviceCatagoryNative":true,
+        "deviceListBanner":true,
         "birthDateNative":true,
         "birthDateBanner":true,
         "nameNative":true,
