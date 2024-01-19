@@ -54,6 +54,7 @@
         "visionModeNative":true,
         "motionDetectionNative":true,
         "audioModeNative":true,
+        "networkNative":true,
         "resolutionNative":true,
         "addDeviceBanner":true,
         "liveCameraBanner":true
