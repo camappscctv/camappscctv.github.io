@@ -3,8 +3,8 @@
     "responseCode": 200,
     "message": "",
     "data": {
-        "appLive": "true",
-        "adsOnOff": "true",
+        "appLive":"true",
+        "adsOnOff":"true",
         "isTestMode":"true",
         "isConsentMsgShow":"true",
         "adsTypeOpenServer":"google",
