@@ -45,6 +45,7 @@
         "countryBanner":true,
         "genderNative":true,
         "genderBanner":true,
+        "ageNative":true,
         "birthDateNative":true,
         "birthDateBanner":true,
         "nameNative":true,
