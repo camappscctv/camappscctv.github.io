@@ -33,7 +33,7 @@
         "bannerImage":"",
         "interstitialLink":"",
         "interstitialImage":"",
-        "interstitialClick":"5",
+        "interstitialClick":5,
         "nativeLink":"",
         "nativeImage":"",
         "nativePerItem":"",
