@@ -4,7 +4,7 @@
     "message": "",
     "data": {
         "appLive":false,
-        "adsOnOff":true,
+        "adsOnOff":false,
         "isTestMode":true,
         "isConsentMsgShow":true,
         "adsTypeOpenServer":"google",
