@@ -37,9 +37,9 @@
         "nativeLink":"",
         "nativeImage":"",
         "nativePerItem":"",
-        "publisherId":"", //it's used for StartApp ads and also unity gameId
+        "publisherId":"",
         "appOpenImage":"",
-        "appOpenLink":""
+        "appOpenLink":"",
         "privacyPolicy": "https://camappscctv.github.io/privacy.html",
         "countryNative": "true",
         "countryBanner": "true",
