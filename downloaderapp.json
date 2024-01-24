@@ -75,6 +75,7 @@
         "msg_chat_screen_ad_show": "true",
         "msg_chat_native_or_banner": "false",
         "exit_screen_ad_show": "true",
-        "is_exit_screen_show": "false"
+        "is_exit_screen_show": "false",
+        "aa_is_guide_screen": "flase"
     }
 }
