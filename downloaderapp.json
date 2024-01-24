@@ -8,7 +8,7 @@
         "isTestMode":true,
         "isConsentMsgShow":true,
         "isBackInterstitialShow":true,
-        "adsTypeOpenServer":"none",
+        "adsTypeOpenServer":"google",
         "adsTypeBannerServer":"google",
         "adsTypeNativeServer":"google",
         "adsTypeInterstitialServer":"google",
