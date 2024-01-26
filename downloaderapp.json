@@ -4,7 +4,7 @@
     "message": "",
     "data": {
         "appLive":true,
-        "adsOnOff":true,
+        "adsOnOff":false,
         "isTestMode":true,
         "isConsentMsgShow":true,
         "isBackInterstitialShow":false,
