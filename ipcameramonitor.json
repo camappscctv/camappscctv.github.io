@@ -1,5 +1,6 @@
 {
   "data": {
+    "bundle_name": "com.ipcamera.wifi.v380.camera",
     "app_live": "true",
     "ads_status": "true",
     "ads_second": 21,
