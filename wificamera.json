@@ -2,7 +2,7 @@
     "status": true,
     "responseCode": 200,
     "message": "",
-     "dataAds": {
+    "dataAds": {
         "adsOnOff": false,
         "isTestMode": false,
         "isConsentMsgShow": false,
