@@ -104,7 +104,7 @@
     },
     "data": {
         "privacyPolicy": "https://camappscctv.github.io/privacy.html",
-        "home_screen_title": "Downloader is an application that helps you to save videos and photos from status. Now you can download status easily with a free Status Downloader for WA.",
+        "home_screen_title": "",
         "home_screen_native": "false",
         "qr_maker_native": "true",
         "qr_scanner_native": "true",
