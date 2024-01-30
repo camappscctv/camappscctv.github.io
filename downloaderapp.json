@@ -104,6 +104,7 @@
     },
     "data": {
         "privacyPolicy": "https://camappscctv.github.io/privacy.html",
+        "home_screen_title": "",
         "home_screen_native": "false",
         "qr_maker_native": "true",
         "qr_scanner_native": "true",
