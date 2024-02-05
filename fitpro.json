@@ -117,6 +117,7 @@
         "watchNative":false,
         "healthNative":false,
         "profileNative":false,
-        "homeNative":false
+        "homeNative":false,
+        "enterNameNative":false
     }
 }
