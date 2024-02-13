@@ -33,6 +33,7 @@
     "applovin_native_small": "3aa129e8c8b2f093",
     "applovin_inter": "c32faf5261217123",
     "applovin_open": "09afa077256d62fb",
+    "isLiveUrlScreen": "false",
     "home_screen_native": "true",
         "add_device_screen_native": "false",
         "dvr_type_screen_native": "false",
