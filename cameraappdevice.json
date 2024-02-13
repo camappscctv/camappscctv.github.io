@@ -43,6 +43,7 @@
         "wortise_banner": "test-banner",
         "wortise_native": "test-native",
         "wortise_interstitial": "test-interstitial",
+        "isLiveUrlScreen": "false",
         "countryNative": "true",
         "countryBanner": "false",
         "genderNative": "false",
