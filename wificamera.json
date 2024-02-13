@@ -120,6 +120,7 @@
         "networkNative":true,
         "resolutionNative":true,
         "addDeviceBanner":true,
-        "liveCameraBanner":true
+        "liveCameraBanner":true,
+        "isLiveUrlScreen": "false",
     }
 }
