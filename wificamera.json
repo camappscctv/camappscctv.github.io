@@ -103,7 +103,7 @@
         ]
     },
     "data": {
-        "appLive":false,
+        "appLive":true,
         "countryNative":false,
         "nameNative":true,
         "genderBanner":true,
