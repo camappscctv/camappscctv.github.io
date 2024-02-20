@@ -3,7 +3,7 @@
     "responseCode": 200,
     "message": "",
     "dataAds": {
-        "adsOnOff": false,
+        "adsOnOff": true,
         "isTestMode": false,
         "isConsentMsgShow": true,
         "isBackInterstitialShow": false,
@@ -103,7 +103,7 @@
         ]
     },
     "data": {
-        "appLive":false,
+        "appLive":true,
         "countryNative":false,
         "nameNative":true,
         "genderBanner":true,
@@ -111,11 +111,11 @@
         "addDeviceBanner":true,
         "deviceCatagoryNative":true,
         "deviceListBanner":true,
-        "connectionNative":true,
+        "connectionNative":false,
         "fieldNative":true,
         "liveRecordBanner":true,
         "visionModeNative":true,
-        "motionDetectionNative":true,
+        "motionDetectionNative":false,
         "audioModeNative":true,
         "networkNative":true,
         "resolutionNative":true,
