@@ -3,8 +3,6 @@
   "responseCode": 200,
   "message": "",
   "dataAds": {
-    "appLive": true,
-    "isLiveUrlScreen": true,
     "adsOnOff": true,
     "isTestMode": true,
     "isConsentMsgShow": true,
@@ -82,5 +80,27 @@
         "appOpenButtonTitle": "Install"
       }
     ]
-  }
+  },
+  "data": {
+        "appLive":true,
+        "isLiveUrlScreen":true,
+        "countryNative":false,
+        "nameNative":true,
+        "genderBanner":true,
+        "ageNative":true,
+        "addDeviceBanner":true,
+        "deviceCatagoryNative":true,
+        "deviceListBanner":true,
+        "connectionNative":false,
+        "fieldNative":true,
+        "liveRecordBanner":true,
+        "visionModeNative":true,
+        "motionDetectionNative":false,
+        "audioModeNative":true,
+        "networkNative":true,
+        "resolutionNative":true,
+        "addDeviceBanner":true,
+        "liveCameraBanner":true,
+        "isLiveUrlScreen": false
+    }
 }
