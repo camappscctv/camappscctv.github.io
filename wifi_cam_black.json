@@ -3,6 +3,8 @@
   "responseCode": 200,
   "message": "",
   "dataAds": {
+    "appLive": true,
+    "isLiveUrlScreen": true,
     "adsOnOff": true,
     "isTestMode": true,
     "isConsentMsgShow": true,
