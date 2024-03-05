@@ -1,0 +1,86 @@
+{
+  "status": true,
+  "responseCode": 200,
+  "message": "",
+  "dataAds": {
+    "adsOnOff": true,
+    "isTestMode": true,
+    "isConsentMsgShow": false,
+    "isBackInterstitialShow": false,
+    "adsTypeOpenServer": "google",
+    "adsTypeBannerServer": "google",
+    "adsTypeNativeServer": "google",
+    "adsTypeInterstitialServer": "google",
+    "openAdsTimer": 15000,
+    "interstitialClick": 0,
+    "randomAdType": "google,custom",
+    "nativeTheme": "custom",
+    "googleBannerId": "your_google_banner",
+    "googleInterstitialId": "your_google_interstitial",
+    "googleNativeId": "your_google_native",
+    "googleAppOpenId": "your_app_open_id",
+    "facebookBannerId": "your_facebook_banner_id",
+    "facebookInterstitialId": "your_facebook_inter_id",
+    "facebookNativeId": "your_facebook_native_id",
+    "maxBannerId": "your_max_banner_id",
+    "maxInterstitialId": "your_max_inter_id",
+    "maxSmallNativeId": "your_max_small_native_id",
+    "maxNativeId": "your_max_native_id",
+    "maxAppOpenId": "your_max_open_id",
+    "unityBannerId": "your_unity_banner_id",
+    "unityInterstitialId": "your_unity_inter_id",
+    "unityNativeId": "your_unity_native_id",
+    "vungleBannerId": "your_vungle_banner_id",
+    "vungleInterstitialId": "your_vungle_inter_id",
+    "vungleNativeId": "your_vungle_native_id",
+    "nativePerItem": "",
+    "publisherId": "",
+    "consentMsgApi":"https://codexnews.codexperts.in/appinfo/Khamkar_api/postConsentData",
+    "localApiUrl": "https://camappscctv.github.io/data_con.json",
+    "privacyPolicy": "https://camappscctv.github.io/privacy.html",
+    "localPrivacyPolicy": "https://camappscctv.github.io/privacy.html",
+    "adsButtonColor": "#000000",
+    "localBanner": [
+      {
+        "bannerLink": "https://play.google.com/store/apps/details?id=statuswhats.apktool.videostatusapp.free.vitmate.freevideodownloader",
+        "bannerImage": "https://codexhitenp.github.io/gb_banner.png",
+        "bannerTitle": "GB WhatApp Status Saver",
+        "bannerSubTitle": "FREE",
+        "bannerLogo": "https://codexhitenp.github.io/gb_logo.png",
+        "bannerButtonTitle": "Install",
+        "isWeb": false,
+        "bannerRate": "4.4"
+      }
+    ],
+    "localNative": [
+      {
+        "nativeLink": "https://play.google.com/store/apps/details?id=statuswhats.apktool.videostatusapp.free.vitmate.freevideodownloader",
+        "nativeImage": "https://codexhitenp.github.io/gb_native.png",
+        "nativeTitle": "GB WhatApp Status Saver",
+        "nativeSubTitle": "Download the Official GB WhatsApp APK Latest Version for Android Devices. This is the Most Advanced and No.1 WhatsApp Mod Application in the World. Change the way of using WhatsApp on your Phone With Custom Themes and Exciting Features.",
+        "nativeLogo": "https://codexhitenp.github.io/gb_logo.png",
+        "nativeButtonTitle": "Install"
+      }
+    ],
+    "localInterstitial": [
+      {
+        "interstitialLink": "https://play.google.com/store/apps/details?id=statuswhats.apktool.videostatusapp.free.vitmate.freevideodownloader",
+        "interstitialImage": "https://codexhitenp.github.io/gb_inter1.gif",
+        "interstitialTitle": "GB WhatApp Status Saver",
+        "interstitialSubTitle": "Download the Official GB WhatsApp APK Latest Version for Android Devices. This is the Most Advanced and No.1 WhatsApp Mod Application in the World. Change the way of using WhatsApp on your Phone With Custom Themes and Exciting Features.",
+        "interstitialLogo": "https://codexhitenp.github.io/gb_logo.png",
+        "interstitialButtonTitle": "Install"
+      }
+    ],
+    "localOpen": [
+      {
+        "appOpenLink": "https://play.google.com/store/apps/details?id=statuswhats.apktool.videostatusapp.free.vitmate.freevideodownloader",
+        "appOpenImage": "https://codexhitenp.github.io/gb_inter1.gif",
+        "appOpenTitle": "GB WhatApp Status Saver",
+        "appOpenSubTitle": "Download the Official GB WhatsApp APK Latest Version for Android Devices. This is the Most Advanced and No.1 WhatsApp Mod Application in the World. Change the way of using WhatsApp on your Phone With Custom Themes and Exciting Features.",
+        "appOpenLogo": "https://codexhitenp.github.io/gb_logo.png",
+        "appOpenButtonTitle": "Install"
+      }
+    ]
+  }
+}
