@@ -42,11 +42,11 @@
     "adsButtonColor": "#000000",
     "localBanner": [
       {
-        "bannerLink": "https://play.google.com/store/apps/details?id=statuswhats.apktool.videostatusapp.free.vitmate.freevideodownloader",
-        "bannerImage": "https://codexhitenp.github.io/gb_banner.png",
-        "bannerTitle": "GB WhatApp Status Saver",
-        "bannerSubTitle": "FREE",
-        "bannerLogo": "https://codexhitenp.github.io/gb_logo.png",
+        "bannerLink": "",
+        "bannerImage": "",
+        "bannerTitle": "",
+        "bannerSubTitle": "",
+        "bannerLogo": "",
         "bannerButtonTitle": "Install",
         "isWeb": false,
         "bannerRate": "4.4"
@@ -54,32 +54,69 @@
     ],
     "localNative": [
       {
-        "nativeLink": "https://play.google.com/store/apps/details?id=statuswhats.apktool.videostatusapp.free.vitmate.freevideodownloader",
-        "nativeImage": "https://codexhitenp.github.io/gb_native.png",
-        "nativeTitle": "GB WhatApp Status Saver",
-        "nativeSubTitle": "Download the Official GB WhatsApp APK Latest Version for Android Devices. This is the Most Advanced and No.1 WhatsApp Mod Application in the World. Change the way of using WhatsApp on your Phone With Custom Themes and Exciting Features.",
-        "nativeLogo": "https://codexhitenp.github.io/gb_logo.png",
+        "nativeLink": "",
+        "nativeImage": "",
+        "nativeTitle": "",
+        "nativeSubTitle": "",
+        "nativeLogo": "",
         "nativeButtonTitle": "Install"
       }
     ],
     "localInterstitial": [
       {
-        "interstitialLink": "https://play.google.com/store/apps/details?id=statuswhats.apktool.videostatusapp.free.vitmate.freevideodownloader",
-        "interstitialImage": "https://codexhitenp.github.io/gb_inter1.gif",
-        "interstitialTitle": "GB WhatApp Status Saver",
-        "interstitialSubTitle": "Download the Official GB WhatsApp APK Latest Version for Android Devices. This is the Most Advanced and No.1 WhatsApp Mod Application in the World. Change the way of using WhatsApp on your Phone With Custom Themes and Exciting Features.",
-        "interstitialLogo": "https://codexhitenp.github.io/gb_logo.png",
+        "interstitialLink": "",
+        "interstitialImage": "",
+        "interstitialTitle": "",
+        "interstitialSubTitle": "",
+        "interstitialLogo": "",
         "interstitialButtonTitle": "Install"
       }
     ],
     "localOpen": [
       {
-        "appOpenLink": "https://play.google.com/store/apps/details?id=statuswhats.apktool.videostatusapp.free.vitmate.freevideodownloader",
-        "appOpenImage": "https://codexhitenp.github.io/gb_inter1.gif",
-        "appOpenTitle": "GB WhatApp Status Saver",
-        "appOpenSubTitle": "Download the Official GB WhatsApp APK Latest Version for Android Devices. This is the Most Advanced and No.1 WhatsApp Mod Application in the World. Change the way of using WhatsApp on your Phone With Custom Themes and Exciting Features.",
-        "appOpenLogo": "https://codexhitenp.github.io/gb_logo.png",
+        "appOpenLink": "",
+        "appOpenImage": "",
+        "appOpenTitle": "",
+        "appOpenSubTitle": "",
+        "appOpenLogo": "",
         "appOpenButtonTitle": "Install"
+      }
+    ]
+  },
+  "data": {
+    "appLive": true,
+    "home_screen_native": true,
+    "add_device_screen_native": false,
+    "dvr_type_screen_native": false,
+    "server_screen_native": true,
+    "video_type_screen_native": true,
+    "camara_type_screen_native": false,
+    "ip_monitor_screen_native": true,
+    "camara_manual_screen_native": true,
+    "recent_screen_banner": false,
+    "home_screen_content": "<h6>QR code scanning APP for Android devices that also supports scanning and creating QR codes and barcodes in various formats.You can create various QR codes and barcodes, such as contacts, products, URL, Wi-Fi, text, E-mail</h6>",
+    "ocr_screen_content": "",
+    "isLiveUrlScreen": false,
+    "main_list": [
+      {
+        "id": "1",
+        "tool_name": "WiFi Camera",
+        "is_show": "true"
+      },
+      {
+        "id": "2",
+        "tool_name": "Manual Camera",
+        "is_show": "true"
+      },
+      {
+        "id": "3",
+        "tool_name": "IP Monitor",
+        "is_show": "true"
+      },
+      {
+        "id": "4",
+        "tool_name": "Camara Preview",
+        "is_show": "true"
       }
     ]
   }
