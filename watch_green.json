@@ -12,7 +12,7 @@
     "adsTypeNativeServer": "google",
     "adsTypeInterstitialServer": "google",
     "openAdsTimer": 15000,
-    "interstitialClick": 4,
+    "interstitialClick": 3,
     "randomAdType": "google,custom",
     "nativeTheme": "custom",
     "googleBannerId": "/21753324030,23059100595/app.smartwatch.fitpro.watch_Banner",
