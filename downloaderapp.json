@@ -12,7 +12,7 @@
         "adsTypeNativeServer": "google",
         "adsTypeInterstitialServer": "google",
         "openAdsTimer": 15000,
-        "interstitialClick": 2,
+        "interstitialClick": 1,
         "randomAdType": "google,custom",
         "nativeTheme": "custom",
         "googleBannerId": "/21753324030,23059100595/statuswhats.apktool.videostatusapp.free.vitmate.freevideodownloader_Banner",
