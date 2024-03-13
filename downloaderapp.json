@@ -6,7 +6,7 @@
         "adsOnOff": false,
         "isTestMode": false,
         "isConsentMsgShow": true,
-        "isBackInterstitialShow": true,
+        "isBackInterstitialShow": false,
         "adsTypeOpenServer": "google",
         "adsTypeBannerServer": "google",
         "adsTypeNativeServer": "google",
